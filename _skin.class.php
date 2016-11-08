@@ -8,7 +8,7 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
 /**
  * Specific code for this skin.
  */
-class Floral_Skin extends Skin
+class floral_Skin extends Skin
 {
 	var $version = '1.1.1';
 
